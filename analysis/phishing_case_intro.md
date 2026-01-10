@@ -22,3 +22,4 @@
 - Write case report as false positive and and more description.
 <img width="916" height="400" alt="image" src="https://github.com/user-attachments/assets/41c2d33a-eef9-42c2-91a4-daf31d4ea239" />
 
+## 8815 – Inbound Email Containing Suspicious External Link
