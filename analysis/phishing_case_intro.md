@@ -1,6 +1,7 @@
 # Phishing Case 1 – Introduction to Phishing
 <img width="1898" height="926" alt="image" src="https://github.com/user-attachments/assets/007cc3ca-3e27-4c81-831a-cdce76dcae96" />
 
+## Case 1
 <img width="1453" height="563" alt="image" src="https://github.com/user-attachments/assets/470d6c0f-aaf9-45e8-984c-5bfa7afffc5d" />
 
 ## Alert Description
