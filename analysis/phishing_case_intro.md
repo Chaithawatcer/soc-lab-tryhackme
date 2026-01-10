@@ -8,4 +8,4 @@
 <img width="1550" height="123" alt="image" src="https://github.com/user-attachments/assets/c0ac9b3c-bea9-4e7e-8d30-4617700ecd62" />
 
 ## Write case report
-<img width="601" height="280" alt="image" src="https://github.com/user-attachments/assets/c882bcb4-20eb-493e-aaa5-3849ba545410" />
+- before we move on we need to gather more information.
