@@ -1,18 +1,19 @@
 # SOC Phishing Incident Analysis Project
 
 ## Objective
-Simulate SOC Tier 1 phishing incident handling using TryHackMe SOC Simulator.
+Simulate SOC Tier 1 phishing incident handling using TryHackMe SOC Simulator,
+focusing on alert triage, email analysis, and incident escalation.
 
-## Scope
-- Email header analysis
-- URL and attachment inspection
-- Threat validation and verdict decision
-- Incident escalation recommendations
+## Scope of Work
+- Phishing email analysis
+- Email header and URL inspection
+- Incident verdict determination
+- Mitigation and escalation recommendations
 
-## Tools Used
+## Tools & Concepts
 - TryHackMe SOC Simulator
-- Email header analysis tools
-- OSINT techniques (manual inspection)
+- Email header analysis
+- MITRE ATT&CK Framework
 
 ## Outcome
-Completed end-to-end phishing investigations aligned with SOC Tier 1 responsibilities.
+Developed hands-on experience in handling phishing incidents aligned with SOC Tier 1 responsibilities.
