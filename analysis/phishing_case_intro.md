@@ -7,8 +7,8 @@
 ## Add action
 <img width="1550" height="123" alt="image" src="https://github.com/user-attachments/assets/c0ac9b3c-bea9-4e7e-8d30-4617700ecd62" />
 
-## Write case report
-- Before we move on we need to gather more information.
+## Analyst event
+- Analyst suspicious external link.
 
 ## Open Analyst VM
 - Search hrconnex.thm for check URL.
@@ -23,3 +23,15 @@
 <img width="916" height="400" alt="image" src="https://github.com/user-attachments/assets/41c2d33a-eef9-42c2-91a4-daf31d4ea239" />
 
 ## 8815 – Inbound Email Containing Suspicious External Link
+
+## 8816 - Access to Blacklisted External URL Blocked by Firewall
+<img width="1527" height="796" alt="image" src="https://github.com/user-attachments/assets/5a39f133-451d-4c32-af5f-8093ae4e8d60" />
+
+## Analyst event
+- Analyst suspicious ip and link URL.
+- Search 67.199.248.11 for check suspicious IP and URL http://bit.ly/3sHkX3da12340.
+- IP and URL Report status is MALICIOUS.
+<img width="850" height="876" alt="image" src="https://github.com/user-attachments/assets/49bef38c-63a2-430c-bca7-1d30448c9841" />
+<img width="848" height="842" alt="image" src="https://github.com/user-attachments/assets/4de57020-c0f1-420f-863e-8d13a2614d8b" />
+
+
