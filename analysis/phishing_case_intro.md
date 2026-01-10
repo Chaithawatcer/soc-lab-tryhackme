@@ -13,6 +13,8 @@
 ## Open SIEM
 - Search hrconnex.thm for get more information.
 <img width="1900" height="926" alt="image" src="https://github.com/user-attachments/assets/f6bb4d1d-b8d5-4f63-baba-f4f6558581a8" />
+
 - At event before 8814 timestamp.
+- This seems to contradict our earlier suspicions. The email actually seems to be from a third-party HR partner. I guess it is a false positive. Write the incident report and classify as false positive.
 <img width="1553" height="402" alt="image" src="https://github.com/user-attachments/assets/c9a2c1d2-9ada-48e9-821f-43101d38b7ce" />
 
