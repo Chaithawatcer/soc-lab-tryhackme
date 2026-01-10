@@ -19,3 +19,6 @@
 <img width="850" height="862" alt="image" src="https://github.com/user-attachments/assets/97a646e8-f5bd-4417-b450-283fa1ba295e" />
 
 - This seems to contradict our earlier suspicions. The email actually seems to be from a third-party HR partner. I guess it is a false positive. Write the incident report and classify as false positive.
+- Write case report as false positive and and more description.
+<img width="916" height="400" alt="image" src="https://github.com/user-attachments/assets/41c2d33a-eef9-42c2-91a4-daf31d4ea239" />
+
