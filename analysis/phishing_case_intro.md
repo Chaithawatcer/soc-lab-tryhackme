@@ -19,6 +19,8 @@
 <img width="850" height="862" alt="image" src="https://github.com/user-attachments/assets/97a646e8-f5bd-4417-b450-283fa1ba295e" />
 
 - This seems to contradict our earlier suspicions. The email actually seems to be from a third-party HR partner. I guess it is a false positive. Write the incident report and classify as false positive.
+
+## Write case report
 - Write case report as false positive and and more description.
 <img width="916" height="400" alt="image" src="https://github.com/user-attachments/assets/41c2d33a-eef9-42c2-91a4-daf31d4ea239" />
 
@@ -27,6 +29,9 @@
 ## 8816 - Access to Blacklisted External URL Blocked by Firewall
 <img width="1527" height="796" alt="image" src="https://github.com/user-attachments/assets/5a39f133-451d-4c32-af5f-8093ae4e8d60" />
 
+## Add action
+<img width="1550" height="128" alt="image" src="https://github.com/user-attachments/assets/e7f79bf1-25d9-4109-b217-9ed21587cbca" />
+
 ## Analyst event
 - Analyst suspicious ip and link URL.
 - Search 67.199.248.11 for check suspicious IP and URL http://bit.ly/3sHkX3da12340.
@@ -34,4 +39,6 @@
 <img width="850" height="876" alt="image" src="https://github.com/user-attachments/assets/49bef38c-63a2-430c-bca7-1d30448c9841" />
 <img width="848" height="842" alt="image" src="https://github.com/user-attachments/assets/4de57020-c0f1-420f-863e-8d13a2614d8b" />
 
+## Write case report
+<img width="947" height="568" alt="image" src="https://github.com/user-attachments/assets/c7be3294-3913-461e-908c-ef5e2befb86d" />
 
