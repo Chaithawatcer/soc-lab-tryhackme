@@ -34,8 +34,10 @@
 - Analyst suspicious sender and URL.
 <img width="721" height="863" alt="image" src="https://github.com/user-attachments/assets/95fc1794-4391-41a5-8347-9a4abb759319" />
 <img width="715" height="865" alt="image" src="https://github.com/user-attachments/assets/ce5c047a-6c2a-4ee8-81c3-55c96126122f" />
+
 - Email sender status is clean but url is malicious.
 - Analyst SIEM log.
+
 <img width="1514" height="832" alt="image" src="https://github.com/user-attachments/assets/25198709-cfb0-4e19-99f9-145bd4d8313b" />
 - user try to access the url but firewall blooked.
 
