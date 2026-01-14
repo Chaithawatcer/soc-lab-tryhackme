@@ -39,6 +39,7 @@
 - Analyst SIEM log.
 
 <img width="1514" height="832" alt="image" src="https://github.com/user-attachments/assets/25198709-cfb0-4e19-99f9-145bd4d8313b" />
+
 - user try to access the url but firewall blooked.
 
 ## Write case report
@@ -61,3 +62,40 @@
 ## Write case report
 <img width="947" height="568" alt="image" src="https://github.com/user-attachments/assets/c7be3294-3913-461e-908c-ef5e2befb86d" />
 
+
+## 8817 - Inbound Email Containing Suspicious External Link
+<img width="1535" height="442" alt="image" src="https://github.com/user-attachments/assets/e81e5e8e-a872-45b5-8dbd-b4b45de71964" />
+
+
+## Add action
+<img width="1541" height="114" alt="image" src="https://github.com/user-attachments/assets/3919b96f-8d90-4b50-ac7c-0c6ddb9fb5e3" />
+
+
+## Analyst event
+- Analyst suspicious domain and link URL.
+<img width="727" height="857" alt="image" src="https://github.com/user-attachments/assets/7ddbda48-6483-438b-97db-226ad8f4e62d" />
+
+<img width="719" height="866" alt="image" src="https://github.com/user-attachments/assets/db03f4ce-b8f5-46bd-aabf-626626deffcc" />
+
+- Sender domain and link url status is malicious.
+
+- Analyst SIEM log.
+
+<img width="918" height="832" alt="image" src="https://github.com/user-attachments/assets/62bed1b0-7bf2-4e4d-8817-5221af945ba5" />
+
+- User access to malicious url and firewall allowed it.
+
+## Write case report
+Time of activity: 01/10/2026 14:44:21.585
+
+List of Affected Entities:  c.allen@thetrydaily.thm, Charlotte Allen, 10.20.2.25
+
+Reason for Classifying as True Positive: TryDetectThis confirm domain m1crosoftsupport.co and link https://m1crosoftsupport.co/login status is malicious.
+
+And log show firewall allowed the connection to the url also confirm user click on url.
+
+Reason for Escalating the Alert: Firewall failed to detect and block this malicious url.
+
+Recommended Remediation Actions: Block the domain m1crosoftsupport.co (add to blacklist)
+
+List of Attack Indicators: m1crosoftsupport.co, https://m1crosoftsupport.co/login,  no-reply@m1crosoftsupport.co
