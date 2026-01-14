@@ -99,3 +99,9 @@ Reason for Escalating the Alert: Firewall failed to detect and block this malici
 Recommended Remediation Actions: Block the domain m1crosoftsupport.co (add to blacklist)
 
 List of Attack Indicators: m1crosoftsupport.co, https://m1crosoftsupport.co/login,  no-reply@m1crosoftsupport.co
+
+
+## Results
+<img width="1114" height="519" alt="image" src="https://github.com/user-attachments/assets/c0caaefa-e115-44f4-a0a9-40531cdc875e" />
+<img width="1095" height="867" alt="image" src="https://github.com/user-attachments/assets/96bfd12b-3a51-4674-8d59-e7b97e45a50c" />
+
