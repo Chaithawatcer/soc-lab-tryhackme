@@ -25,6 +25,23 @@
 <img width="916" height="400" alt="image" src="https://github.com/user-attachments/assets/41c2d33a-eef9-42c2-91a4-daf31d4ea239" />
 
 ## 8815 – Inbound Email Containing Suspicious External Link
+<img width="1533" height="455" alt="image" src="https://github.com/user-attachments/assets/286a27fb-833c-48dd-a4a9-c62fad1d2d49" />
+
+## Add action
+<img width="1557" height="120" alt="image" src="https://github.com/user-attachments/assets/a328b7b2-9408-444c-b57a-5c272ba82bd3" />
+
+## Analyst event
+- Analyst suspicious sender and URL.
+<img width="721" height="863" alt="image" src="https://github.com/user-attachments/assets/95fc1794-4391-41a5-8347-9a4abb759319" />
+<img width="715" height="865" alt="image" src="https://github.com/user-attachments/assets/ce5c047a-6c2a-4ee8-81c3-55c96126122f" />
+- Email sender status is clean but url is malicious.
+- Analyst SIEM log.
+<img width="1514" height="832" alt="image" src="https://github.com/user-attachments/assets/25198709-cfb0-4e19-99f9-145bd4d8313b" />
+- user try to access the url but firewall blooked.
+
+## Write case report
+<img width="1004" height="698" alt="image" src="https://github.com/user-attachments/assets/6e432d38-e8ee-452d-84e0-0382f09504eb" />
+
 
 ## 8816 - Access to Blacklisted External URL Blocked by Firewall
 <img width="1527" height="796" alt="image" src="https://github.com/user-attachments/assets/5a39f133-451d-4c32-af5f-8093ae4e8d60" />
