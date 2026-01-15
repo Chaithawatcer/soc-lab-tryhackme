@@ -13,7 +13,6 @@ focusing on alert triage, email analysis, and incident escalation.
 ## Tools & Concepts
 - TryHackMe SOC Simulator
 - Email header analysis
-- MITRE ATT&CK Framework
 
 ## Outcome
 Developed hands-on experience in handling phishing incidents aligned with SOC Tier 1 responsibilities.
